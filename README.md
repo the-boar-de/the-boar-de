@@ -1,4 +1,25 @@
-## Hi there 👋
+# Hi 👋
+
+## About me 
+
+- 🎓 Studying Mechatronics & Robotics
+- 🔒 Transitioning into OT/ICS Security
+- 🏭 Background in Beckhoff TwinCAT & IEC 61131-3
+- 🦀 Currently learning Rust
+- 🔧 Homelab runner
+
+
+## Currently working on
+
+- My small Discord-Bot project
+
+
+## Tech Stack
+- C# · Rust (learning) · Python
+- Docker · Linux
+- Beckhoff TwinCAT
+
+
 
 <!--
 **the-boar-de/the-boar-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
