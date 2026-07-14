@@ -15,7 +15,8 @@
 
 
 ## Tech Stack
-- C# · Rust (learning) · Python(learning)
+- C#
+- Rust (learning) 
 - Docker · Linux
 - Beckhoff TwinCAT
 
